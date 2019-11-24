@@ -13,6 +13,7 @@
 
 **工具与环境：**
 
+*  WebStorm
 *  IDEA
 *  Maven 3
 *  JDK 8
@@ -108,19 +109,11 @@
 
 ### 2.2 页面开发
 
-
-
 [Semantic UI官网](https://semantic-ui.com/)
-
-[Semantic UI中文官网](http://www.semantic-ui.cn/)
-
-[WebStorm下载与破解](https://imcoding.me/blogs/5)
 
 [背景图片资源](https://www.toptal.com/designers/subtlepatterns/)
 
 ### 2.3 插件集成
-
-
 
 [编辑器 Markdown](https://pandao.github.io/editor.md/)
 
