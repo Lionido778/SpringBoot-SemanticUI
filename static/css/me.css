@@ -15,6 +15,10 @@ body {
     padding: 0.3em !important;
 }
 
+.m-padded {
+    padding: 1em !important;
+}
+
 .m-padded-tb-mini {
     padding-top: 0.2em !important;
     padding-bottom: 0.2em !important;
@@ -129,6 +133,16 @@ body {
     display: none !important;
 }
 
+.m-fixed {
+    position: fixed !important;
+    z-index: 1;
+}
+
+.m-right-bottom {
+    bottom: 100px !important;
+    right: 5px !important;
+}
+
 /*----------手机响应端-------------*/
 @media screen and (max-width: 768px) {
     /*导航菜单*/
@@ -164,7 +178,7 @@ body {
 }
 
 .m-container-small {
-    max-width: 60em !important;
+    max-width: 65em !important;
     margin: auto !important;
 }
 
